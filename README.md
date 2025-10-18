@@ -6,9 +6,8 @@ I am a Computer Science student at Riphah International University, passionate a
 
 ## Ongoing
 
-**Learning:** I am  currently learning Mobile Application Development via Flutter as part of my coursework at Riphah International University.
-<br>
-**Project:** I am working on a POS in Flutter as part of my semester project.
+- **Learning:** I am  currently learning Mobile Application Development via Flutter as part of my coursework at Riphah International University.
+- **Project:** I am working on a POS in Flutter as part of my semester project.
 
 ## Lets Connect!
 **Email:** [57375@students.riphah.edu.pk](mailto:57375@students.riphah.edu.pk)
