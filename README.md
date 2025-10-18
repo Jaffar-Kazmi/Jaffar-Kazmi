@@ -4,6 +4,12 @@
 
 I am a Computer Science student at Riphah International University.I am passionate about Artificial Intelligence and Machine Learning. I have also hands on experience in Full Stack Web Development using MERN Stack.
 
+## Ongoing
+
+**Learning** I am  currently learning Mobile Application Development via Flutter as part of my coursework at Riphah International University
+<br>
+**Project** I am working on a POS in Flutter as part of my semester project.
+
 ## Lets Connect!
 - Email: [57375@students.riphah.edu.pk](mailto:57375@students.riphah.edu.pk)
 - Linked In: [www.linkedin.com/in/syed-jaffar-raza-kazmi-b9857833a](https://www.linkedin.com/in/syed-jaffar-raza-kazmi-b9857833a)
