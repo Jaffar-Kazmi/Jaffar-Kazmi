@@ -2,7 +2,7 @@
 
 # I am Syed Jaffar Raza Kamzi
 
-#### I am a Computer Science student at Riphah International University.I am passionate about Artificial Intelligence and Machine Learning. I have also hands on experience in Full Stack Web Development using MERN Stack.
+**I am a Computer Science student at Riphah International University.I am passionate about Artificial Intelligence and Machine Learning. I have also hands on experience in Full Stack Web Development using MERN Stack.**
 
 ## Contact me
 [Email](57375@students.riphah.edu.pk)
