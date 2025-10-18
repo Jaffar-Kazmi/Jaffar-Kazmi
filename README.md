@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-# I am Syed Jaffar Raza Kamzi
+# I am Syed Jaffar Raza Kazmi
 
-**I am a Computer Science student at Riphah International University.I am passionate about Artificial Intelligence and Machine Learning. I have also hands on experience in Full Stack Web Development using MERN Stack.**
+I am a Computer Science student at Riphah International University.I am passionate about Artificial Intelligence and Machine Learning. I have also hands on experience in Full Stack Web Development using MERN Stack.
 
-## Lets Connect
-- [Email](mailto:57375@students.riphah.edu.pk)
-- [Linked In](https://www.linkedin.com/in/syed-jaffar-raza-kazmi-b9857833a)
+## Lets Connect!
+- Email: [57375@students.riphah.edu.pk](mailto:57375@students.riphah.edu.pk)
+- Linked In: [www.linkedin.com/in/syed-jaffar-raza-kazmi-b9857833a](https://www.linkedin.com/in/syed-jaffar-raza-kazmi-b9857833a)
 
 <!--
 **Jaffar-Kazmi/Jaffar-Kazmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
