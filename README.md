@@ -2,30 +2,6 @@
 
 ###
 
-<h1 align="left">I am Syed Jaffar Raza Kazmi</h1>
-
-###
-
-<p align="left">I am a Computer Science student at Riphah International University, passionate about Artificial Intelligence and Machine Learning. Alongside my academic pursuits, I have also hands on experience in Full Stack Web Development using MERN Stack.</p>
-
-###
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo2eGx6OG9reTE3bjR1OHV1aW0ybXNiZWY2ajJ3ZWhlZmhkZ2kxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp"  />
-
-###
-
-<h2 align="left">Ongoing:</h2>
-
-###
-
-<p align="left">Learning: I am currently learning Mobile Application Development via Flutter as part of my coursework at Riphah International University.<br>    Project: I am working on a POS in Flutter as part of my semester project.</p>
-
-###
-
-<h3 align="left">I use Arch btw...</h3>
-
-###
-
 <div align="center">
   <a href="www.linkedin.com/in/syed-jaffar-raza-kazmi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -34,6 +10,30 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<h1 align="left">I am Syed Jaffar Raza Kazmi</h1>
+
+###
+
+<p align="left">I am a Computer Science student at Riphah International University, passionate about Artificial Intelligence and Machine Learning. Alongside my academic pursuits, I have also hands on experience in Full Stack Web Development using MERN Stack.</p>
+
+###
+
+<h2 align="left">Ongoing:</h2>
+
+###
+
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo2eGx6OG9reTE3bjR1OHV1aW0ybXNiZWY2ajJ3ZWhlZmhkZ2kxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp"  />
+
+###
+
+<p align="left">Learning: I am currently learning Mobile Application Development via Flutter as part of my coursework at Riphah International University.<br>    Project: I am working on a POS in Flutter as part of my semester project.</p>
+
+###
+
+<h3 align="left">I use Arch btw...</h3>
 
 ###
 
