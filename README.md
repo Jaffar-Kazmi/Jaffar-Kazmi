@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Learning: I am currently learning Mobile Application Development via Flutter as part of my coursework at Riphah International University.<br>    Project: I am working on a POS in Flutter as part of my semester project.</p>
+<p align="left"><strong>Learning:</strong> I am currently learning Mobile Application Development via Flutter as part of my coursework at Riphah International University.<br>    <strong>Project:</strong> I am working on a POS in Flutter as part of my semester project.</p>
 
 ###
 
@@ -109,9 +109,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jaffar-Kazmi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaffar-Kazmi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Jaffar-Kazmi/Jaffar-Kazmi/output/snake.svg" alt="Snake animation" />
-
-###
