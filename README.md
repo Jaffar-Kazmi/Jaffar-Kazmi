@@ -1,5 +1,8 @@
 <h2 align="center">Hey there! 👋</h2>
 
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jaffar-Kazmi&label=Profile%20views&color=0e75b6&style=flat" alt="Jaffar-Kazmi" />
+</p> -->
 ###
 
 <div align="center">
@@ -20,6 +23,10 @@
 <p align="left">I am a Computer Science student at Riphah International University, passionate about Artificial Intelligence and Machine Learning. Alongside my academic pursuits, I have also hands on experience in Full Stack Web Development using MERN Stack.</p>
 
 ###
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=MERN+Stack+%7C+Flutter+Dev+%7C+AI+Enthusiast;" alt="Typing SVG" />
+</p>
 
 <h2 align="left">Ongoing:</h2>
 
