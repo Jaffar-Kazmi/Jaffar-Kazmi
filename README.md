@@ -28,10 +28,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=MERN+Stack+%7C+Flutter+Dev+%7C+AI+Enthusiast;" alt="Typing SVG" />
 </p>
 
+<!--
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Jaffar-Kazmi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+-->
 <h2 align="left">Ongoing:</h2>
 
 ###
