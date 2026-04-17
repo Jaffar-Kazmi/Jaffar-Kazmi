@@ -25,7 +25,7 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=MERN+Stack+%7C+Flutter+Dev+%7C+AI+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Flutter+Dev+%7C+Node.js+%7C+AI+Enthusiast;" alt="Typing SVG" />
 </p>
 
 <!--
