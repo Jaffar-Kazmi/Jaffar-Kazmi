@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I am a Computer Science student at Riphah International University, passionate about Artificial Intelligence and Machine Learning. Alongside my academic pursuits, I have also hands on experience in Full Stack Web Development using MERN Stack.</p>
+<p align="left">I am a Computer Science student at Riphah International University, passionate about Artificial Intelligence and Machine Learning. Alongside my academic pursuits, I have also hands on experience in Mobile Applicaton Development using Flutter.</p>
 
 ###
 
