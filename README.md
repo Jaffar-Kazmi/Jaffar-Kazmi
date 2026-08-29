@@ -25,7 +25,7 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Flutter+Dev+%7C+Node.js+%7C+AI+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=AI+Engineer+%7C+LLMs+%7C+Computer+Vision;" alt="Typing SVG" />
 </p>
 
 <!--
@@ -113,7 +113,7 @@
 
 ###
 
-<h3 align="left">📊  My Stats :</h3>
+<!-- <h3 align="left">📊  My Stats :</h3>
 
 ###
 
@@ -133,4 +133,4 @@
 
 
 
-###
+### -->
